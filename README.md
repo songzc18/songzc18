@@ -1,10 +1,10 @@
 # Hi, I'm Zichen Song 👋
 
-**PhD Candidate**
+- **PhD Candidate**
 
 Graduate School of Informatics, ***Kyoto University***
 
-**Visiting Researcher** 
+- **Visiting Researcher** 
 
 Laboratory of Neural Computation and Optimization (LNCO), ***EPFL***
 
