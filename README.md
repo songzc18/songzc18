@@ -9,11 +9,16 @@ My research combines **human EEG**, **computational neuroscience**, and **statis
 
 ## 🔬 Research Interests
 
+My research focuses on understanding how internal cognitive states are represented in the brain through computational analysis of human neurophysiological data.
+
+I am particularly interested in
+
 - Computational Neuroscience
 - Cognitive Neuroscience
-- Human EEG
+- Human Neurophysiology
 - Neural Representation
-- Decision Neuroscience
+- Decision-Making and Metacognition
+- Learning and Adaptive Behavior
 - Multimodal Physiological Signal Analysis
 - Machine Learning for Neurophysiology
 
@@ -21,32 +26,38 @@ My research combines **human EEG**, **computational neuroscience**, and **statis
 
 ## 📚 Publications
 
-📄 Google Scholar *(coming soon)*
+### Journal Articles
 
-📄 ORCID *(coming soon)*
+- **Shared and Divergent Neural Representations of Prospective and Retrospective Confidence Across Perceptual and Memory Tasks**  
+  *NeuroImage* *(Under Review)*
+
+- **Transfer of EEG Decoders from Perception to Mental Imagery Across Sensory Modalities**  
+  *IEEE Transactions on Neural Systems and Rehabilitation Engineering* *(Under Review)*
+
+- **Neural Markers of Anticipated Task Difficulty: An EEG Study with Auditory Similarity Judgments**  
+  *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2025
 
 ---
 
-## 🤝 Collaboration Interests
+### Conference Proceedings
 
-I am interested in collaborative research involving
+- **Decoding Confidence in Future Event: EEG Markers of Prospective Confidence in Perceptual and Memory Tasks**  
+  *IEEE EMBC 2025*
 
-- Decision-making
-- Motivation
-- Stress and adaptive behavior
-- Human neurophysiology
-- Computational neuroscience
-- Multimodal physiological data analysis
+- **EEG Markers for Anticipated Difficulty of Future Visual Task**  
+  *IEEE EMBC 2024*
+
+- **EEG Study on Anticipation of Difficulty for Upcoming Auditory Task**  
+  *APSIPA ASC 2023*
 
 ---
 
 ## 📫 Contact
+📧 Email: song.zichen.6i@kyoto-u.ac.jp
 
-📧 Email: your_email@xxx
+🌐 [Google Scholar](https://scholar.google.com/citations?user=_xXwmAkAAAAJ&hl)
 
-🌐 Google Scholar: ...
-
-🔗 ORCID: ...
+🔗 [ORCID](https://orcid.org/0009-0006-9309-6233) 
 
 
 <!--
