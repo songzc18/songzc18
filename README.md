@@ -1,10 +1,10 @@
 # Hi, I'm Zichen Song 👋
 
-### PhD Candidate
-Graduate School of Informatics, ***Kyoto University***
+**PhD Candidate**
+-Graduate School of Informatics, ***Kyoto University***
 
-### Visiting Researcher
-Laboratory of Neural Computation and Optimization (LNCO), ***EPFL***
+**Visiting Researcher**
+-Laboratory of Neural Computation and Optimization (LNCO), ***EPFL***
 
 My research aims to understand how internal cognitive states are represented in the brain and how they influence cognition and adaptive behavior. To investigate these questions, I combine **computational neuroscience**, **human neurophysiology**, **statistical modeling**, and **machine learning**.
 
