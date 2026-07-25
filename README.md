@@ -1,4 +1,4 @@
-# Hi, I'm Zichen Song 👋
+# Hi, I'm Zichen SONG 👋
 
 **PhD Candidate**
 - Graduate School of Informatics, ***Kyoto University***
