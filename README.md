@@ -53,11 +53,7 @@ I am particularly interested in
 ---
 
 ## 📫 Contact
-📧 Email: song.zichen.6i@kyoto-u.ac.jp
-
-🌐 [Google Scholar](https://scholar.google.com/citations?user=_xXwmAkAAAAJ&hl)
-
-🔗 [ORCID](https://orcid.org/0009-0006-9309-6233) 
+📧 Email: song.zichen.6i@kyoto-u.ac.jp ｜ 🌐 [Google Scholar](https://scholar.google.com/citations?user=_xXwmAkAAAAJ&hl) ｜ 🔗 [ORCID](https://orcid.org/0009-0006-9309-6233) 
 
 
 <!--
