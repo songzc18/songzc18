@@ -6,24 +6,28 @@
 **Visiting Researcher**
 - Laboratory of Neural Computation and Optimization (LNCO), ***EPFL***
 
-My research aims to understand how internal cognitive states are represented in the brain and how they influence cognition and adaptive behavior. To investigate these questions, I combine **computational neuroscience**, **human neurophysiology**, **statistical modeling**, and **machine learning**.
+My research aims to understand how internal cognitive states are represented in the brain and how these representations shape decision-making and adaptive behavior. To address these questions, I combine **computational neuroscience**, **human neurophysiology**, **statistical modeling**, and **machine learning**.
 
 ---
 
 ## 🔬 Research Interests
 
-My research focuses on understanding how internal cognitive states are represented in the brain through computational analysis of human neurophysiological data.
+My research focuses on how neural representations support internal cognitive states and adaptive behavior, using computational analyses of human neurophysiological and multimodal data.
 
-I am particularly interested in
+My current work focuses on extracting and characterizing neural representations from human neurophysiological and behavioral data, with particular emphasis on EEG-based decoding, multivariate analysis, and generalization across cognitive conditions and individuals. I am also interested in how foundation-model and representation-learning approaches can advance the analysis and modeling of neural data.
 
-- Computational Neuroscience
-- Cognitive Neuroscience
-- Human Neurophysiology
-- Neural Representation
-- Decision-Making and Metacognition
-- Learning and Adaptive Behavior
-- Multimodal Physiological Signal Analysis
-- Machine Learning for Neurophysiology
+I am interested in:
+
+- Computational and cognitive neuroscience  
+- Human neurophysiology and EEG  
+- Neural representations and neural decoding  
+- Multivariate pattern analysis and representational similarity analysis  
+- Decision-making, metacognition, prediction, and adaptive behavior  
+- Statistical modeling of neural and behavioral data  
+- Machine learning and deep learning for neurophysiology  
+- Cross-condition and cross-subject generalization  
+- Multimodal physiological signal analysis  
+- Foundation models and representation learning for neural data  
 
 ---
 
